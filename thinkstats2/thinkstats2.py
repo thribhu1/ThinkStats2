@@ -132,7 +132,7 @@ class Interpolator(object):
 # the legend unless we override the default label.
 DEFAULT_LABEL = '_nolegend_' 
 
-
+#private parent class for Hist and Pmf
 class _DictWrapper(object):
     """An object that contains a dictionary."""
 

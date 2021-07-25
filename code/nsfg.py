@@ -120,7 +120,7 @@ def MakePregMap(df):
         d[caseid].append(index)
     return d
 
-
+                                                                           
 def main():
     """Tests the functions in this module.
 
